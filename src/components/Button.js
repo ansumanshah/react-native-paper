@@ -242,6 +242,7 @@ const styles = StyleSheet.create({
   button: {
     margin: 4,
     minWidth: 88,
+    justifyContent: 'center',
   },
   compact: {
     minWidth: 64,
